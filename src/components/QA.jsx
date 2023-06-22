@@ -8,10 +8,10 @@ const QA = () => {
         Frequently Asked Any Questions
       </h2>
       <div className="md:flex">
-        <div>
-          <img className="w-full" src={faq} alt="" />
+        <div className="">
+          <img className="h-full p-4" src={faq} alt="" />
         </div>
-        <div className="px-8">
+        <div className="text-left py-8 w-3/4">
           <div
             tabIndex={0}
             className="collapse collapse-plus border border-base-300 bg-base-100 rounded-box py-3"

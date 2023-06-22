@@ -7,7 +7,7 @@ const AboutUs = () => {
         <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
             <h2 className="font-bold text-5xl text-black py-5">About Us</h2>
-            <p className="mt-2 text-lg leading-8 font-bold tracking-tight text-gray-900 sm:text-4xl">
+            <p className="mt-2 text-xl leading-8 font-bold tracking-tight text-gray-900 sm:text-2xl">
               Who We Are
             </p>
             <p className="text-center text-xl text-gray-500">
